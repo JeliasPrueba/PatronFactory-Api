@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\controllers\\plantillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\controllers\\plantillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\services\\reportcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\services\\reportcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\controllers\\filesuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\controllers\\filesuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\services\\reportexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\services\\reportexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\services\\reportpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\services\\reportpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|c:\\users\\acer\\desktop\\contenedor\\cursos\\curso aspnetcore\\patronfactory\\patronfactory\\interfaces\\iuserfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4C9D0D-8959-43F8-93A5-7787613C202E}|PatronFactory\\PatronFactory.csproj|solutionrelative:patronfactory\\interfaces\\iuserfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PatronFactory\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PatronFactory\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T22:26:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantillasController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Controllers\\PlantillasController.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Controllers\\PlantillasController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Controllers\\PlantillasController.cs*",
+              "RelativeToolTip": "PatronFactory\\Controllers\\PlantillasController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:20:22.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Models\\Contrato.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Models\\Contrato.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Models\\Contrato.cs",
+              "RelativeToolTip": "PatronFactory\\Models\\Contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:18:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Models\\User.cs",
+              "RelativeToolTip": "PatronFactory\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:58:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportCsv.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Services\\ReportCsv.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Services\\ReportCsv.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Services\\ReportCsv.cs",
+              "RelativeToolTip": "PatronFactory\\Services\\ReportCsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:57:04.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportExcel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Services\\ReportExcel.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Services\\ReportExcel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Services\\ReportExcel.cs",
+              "RelativeToolTip": "PatronFactory\\Services\\ReportExcel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:39:56.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilesUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Controllers\\FilesUsersController.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Controllers\\FilesUsersController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Controllers\\FilesUsersController.cs",
+              "RelativeToolTip": "PatronFactory\\Controllers\\FilesUsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:28:50.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserFiles.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Interfaces\\IUserFiles.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Interfaces\\IUserFiles.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Interfaces\\IUserFiles.cs",
+              "RelativeToolTip": "PatronFactory\\Interfaces\\IUserFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:10:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportPdf.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Services\\ReportPdf.cs",
+              "RelativeDocumentMoniker": "PatronFactory\\Services\\ReportPdf.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Contenedor\\Cursos\\Curso AspNetCore\\PatronFactory\\PatronFactory\\Services\\ReportPdf.cs",
+              "RelativeToolTip": "PatronFactory\\Services\\ReportPdf.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:08:56.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
